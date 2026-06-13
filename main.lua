@@ -13,14 +13,14 @@ if not preset then
 end
 
 local items = {
-	"Meat", "Melon", "Padlock key", "Playhouse key", "Remote control",
+	"Meat", "Melon", "Padlock key", "Playhouse Key", "Remote control",
 	"Rusty padlock key", "Safekey", "Spark plug", "Special key",
 	"Weapon key", "Wheel crank", "Winch handle", "Wrench",
 	"A part of a shotgun (1)", "A part of a shotgun (2)",
 	"A part of a shotgun (3)", "Battery", "Bird seed", "Book",
-	"Car battery", "Car key", "Chain cutter", "Cogwheel (Orange)",
+	"Car Battery", "Car Key", "Chain cutter", "Cogwheel (Orange)",
 	"Cogwheel (Red)", "Gasoline can", "Hammer", "Padlock code",
-	"Wooden stick", "Lever", "Find a Switch", "Screwdriver", "Master Key"
+	"Wooden stick", "Lever", "Find a switch", "Screwdriver", "Master Key", "Padlock Key", "Crossbow", "Shotgun"
 }
 
 for _, itemName in ipairs(items) do
